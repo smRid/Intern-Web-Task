@@ -2,6 +2,8 @@
 
 A modern, responsive web application built with Next.js that displays Islamic Duas and Ruqyah with Arabic text, transliteration, and English translations.
 
+---
+
 ## Features
 
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
@@ -11,6 +13,9 @@ A modern, responsive web application built with Next.js that displays Islamic Du
 - **Search Functionality**: Search for specific duas
 - **Modern UI**: Clean, intuitive interface with smooth animations
 - **Database Integration**: Uses SQLite database for efficient data storage and retrieval
+---
+
+## 🔗 Live Demo : [View Live Demo](https://ruqiyahduas.vercel.app/)
 
 ## Tech Stack
 
@@ -19,6 +24,8 @@ A modern, responsive web application built with Next.js that displays Islamic Du
 - **Database**: SQLite
 - **Icons**: Lucide React
 - **Fonts**: Inter (UI), Amiri (Arabic text)
+
+---
 
 
 ## Database Schema
